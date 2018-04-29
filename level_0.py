@@ -1,0 +1,1 @@
+print("Dont judge me  c'est de début :p \nrésultat : " + str(2**38))
